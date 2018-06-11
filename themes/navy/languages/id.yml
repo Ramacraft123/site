@@ -1,0 +1,69 @@
+menu:
+  docs: Dokumentasi
+  api: API
+  news: Berita
+  plugins: Plugin
+  themes: Tema
+  search: Cari
+
+index:
+  get_started: Memulai
+
+page:
+  contents: Konten
+  back_to_top: Kembali ke atas
+  improve: Perbaik dokumen ini
+  prev: Sebelum
+  next: Selanjutnya
+  last_updated: "Terakhir diperbarui: %s"
+
+sidebar:
+  docs:
+    getting_started: Memulai
+    overview: Ikhtisar
+    setup: Pemasangan
+    configuration: Konfigurasi
+    commands: Perintah
+    migration: Migrasi
+    basic_usage: Penggunaan Dasar
+    writing: Menulis
+    front_matter: Front-matter
+    tag_plugins: Tag Plugin
+    asset_folders: Berkas Aset
+    data_files: File Data
+    server: Peladen
+    generating: Menghasilkan
+    deployment: Pemasangan
+    customization: Kostumisasi
+    permalinks: Link Permanen
+    themes: Tema
+    structure: Struktur
+    templates: Templat
+    variables: Variabel
+    helpers: Pembantu
+    internationalization: Internasionalisasi (i18n)
+    plugins: Plugin
+    miscellaneous: Lain Lain
+    troubleshooting: Penyelesaian masalah
+    contributing: Berkontribusi
+  api:
+    core: Inti
+    overview: Ikhtisar
+    events: Event
+    locals: Local
+    router: Router
+    box: Kotak
+    rendering: Rendering
+    posts: Postingan
+    scaffolds: Rangka
+    themes: Tema
+    extensions: Ekstensi
+    console: Konsol
+    deployer: Deployer
+    filter: Filter
+    generator: Generator
+    helper: Helper
+    migrator: Migrator
+    processor: Processor
+    renderer: Renderer
+    tag: Tag
